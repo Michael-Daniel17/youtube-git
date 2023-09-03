@@ -1,0 +1,98 @@
+commit 6755f56f16ce166ce01fc4354de35d0b14ea30fd
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 11:33:49 2023 -0500
+
+    Agregando dos párrafos
+
+commit c1f47890e4502d2df826c268fa82bcc021816a16
+Merge: 0e72c00 005b8a0
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 11:31:23 2023 -0500
+
+    Resolviendo conflicot en estaciones del año y fechas de inicio
+
+commit 0e72c003145c29fb486bcf633e7ebed5ee68db93
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 11:14:52 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 005b8a008b13b52b82bb24d665846c80e9e39da5
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 11:14:52 2023 -0500
+
+    Agregando las estaciones del año
+
+commit cf99256077d37d80153ab2039c3942dad250819b
+Merge: f3697cd d922f44
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 11:08:44 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit d922f4435c0c520b6f5f2ca5438bf9f807e01402
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 11:01:06 2023 -0500
+
+    Agregando index.js al index.html
+
+commit f3697cd1d19489ff849b2ef512863a1057ca3cfd
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 10:58:33 2023 -0500
+
+    Agregando style.css al index.html
+
+commit d9d0b3411689c42bfa1d55906820496115ceffb7
+Merge: 9afbb9d 902f423
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 10:49:23 2023 -0500
+
+    Merge branch 'js'
+
+commit 902f4234815ec8cdc4567aabb59c17c8246c0d89
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 10:43:31 2023 -0500
+
+    Creando index.js
+
+commit 9afbb9d01f0bfaee3ff5fcd7db925ce978743f68
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 10:39:05 2023 -0500
+
+    Creando style.css
+
+commit 9893357bf5d92cfc92881ba0fc8f00c56ee76152
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 10:33:48 2023 -0500
+
+    Creando archivo index.html
+
+commit 9bc40d472dafc888022b3e3ed0fd7dc6d850fabe
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 08:55:49 2023 -0500
+
+    Ignorando archivos .exe
+
+commit 0dc82f270774de4488a1975ebf80bc73892db17c
+Author: Michael-Daniel17 <77591995+Michael-Daniel17@users.noreply.github.com>
+Date:   Fri Sep 1 08:00:53 2023 -0500
+
+    Creando licencia del respositorio
+
+commit 60d0aa6c61a73cd79552f8fa809c7c04a0f58497
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 07:54:01 2023 -0500
+
+    Agregando mas contenido al README
+
+commit 3c60d571790acd7186c0b68e4fefef9b945dafa1
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 07:36:43 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit a9a33da614dd0779d858670b8c8a7b65f570807f
+Author: Michael Daniel <michaeldanielpacheco1@gmail.com>
+Date:   Fri Sep 1 07:31:45 2023 -0500
+
+    Primer commit :)
